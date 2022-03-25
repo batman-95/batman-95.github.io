@@ -5,9 +5,10 @@
      <title>Hello football</title>
  <link href="https://www.adalab.cn/admission.css" rel="stylesheet">
 <link href="style.css" rel="stylesheet">
-<style>
-            a {
-               color: green;
+<style type="text/css">
+.eethree:hover {
+                 background: green;
+                 color: #fff;
                }
 
 </style>
@@ -19,7 +20,7 @@
  <main>
   <aside>
    <ul>
-    <li><a href="https://www.bilibili.com/video/BV14h411C7aL?spm_id_from=333.337.search-card.all.click" target="_blank">B站精彩足球解说视频</a></li>
+    <li><a href="https://www.bilibili.com/video/BV14h411C7aL?spm_id_from=333.337.search-card.all.click" target="_blank" class="eethree">B站精彩足球解说视频</a></li>
    </ul>
     </aside>
   <article>
@@ -31,6 +32,6 @@
    <p>中国的宋代就已经有了现代足球运动的雏形即蹴鞠运动</p>
   </article>
  </main>
- <a href="https://www.adalab.cn" target="_blank">文章你好呀</a>
+ <a href="https://www.adalab.cn" target="_blank" class="eethree">Adalab</a>
  </body>
   </html>
