@@ -1,1 +1,34 @@
 
+<!DOCTYPE html>
+ <html lang="zh-CN">
+a {
+  color: red;
+}
+   <head>
+    <link href="https://www.adalab.cn/admission.css" rel="stylesheet">
+<link href="style.css" rel="stylesheet">
+     <title>Hello football</title>
+     </head>
+<body>
+ <header>
+  <img src="football.jpg" alt="英超足球代表人物" title="英超足球代表人物" width="500"/>
+       </header>
+ <main>
+  <aside>
+   <ul>
+    <li><a href="https://www.bilibili.com/video/BV14h411C7aL?spm_id_from=333.337.search-card.all.click">B站精彩足球解说视频</a></li>
+   </ul>
+    </aside>
+  <article>
+   <h1>足球的起源</h1>
+   <p>现代足球运动起源于英国</p>
+   <h2>足球运动在全球广受欢迎</h2>
+   <p>足球运动是世界上参与人数最多的一项体育运动</p>
+   <h3>中国早就出现了足球雏形运动</h3>
+   <p>中国的宋代就已经有了现代足球运动的雏形即蹴鞠运动</p>
+  </article>
+ </main>
+ <footer>by <a href="https://www.zhihu.com/people/ji-wei-24-21" target="_blank">CGTN</a> for <a href="https://www.adalab.cn" target="_blank">Adalab</a>
+ </footer>
+   </body>
+  </html>
