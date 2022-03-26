@@ -3,5 +3,5 @@ document.addEventListener("DOMContentLoaded", function(event) {
     targetImage.addEventListener("click", function() {
     alert("点击了图片");
 });
-   targetImage.classList.remove(class="small");
+   targetImage.classList.remove(#class="small");
 });
